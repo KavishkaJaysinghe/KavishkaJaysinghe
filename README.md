@@ -21,7 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-<a href="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/Recording 2025-01-25 175836.mp4" target="_blank">
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
   <img src="https://github.com/Scar1109/Scar1109/blob/main/Images/glb_preview.png" 
        alt="3D Model" 
        width="450" 
