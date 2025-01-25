@@ -21,15 +21,12 @@
 </td>
 <td width="50%" align="center">
 
-<!-- Render GLB file -->
-<a href="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/Recording 2025-01-25 175836.mp4" target="_blank">
+<a href="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/Recording 2025-01-25 175836.mp4">
   <img src="https://github.com/Scar1109/Scar1109/blob/main/Images/glb_preview.png" 
        alt="3D Model" 
        width="450" 
        height="450">
 </a>
-<p>Click the image to view my 3D model!</p>
-
 </td>
 </table>
 
