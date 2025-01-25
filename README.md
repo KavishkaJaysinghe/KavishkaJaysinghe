@@ -3,9 +3,9 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<table align="center" hight = 460px width = 700px>
+<table align="center" >
 <tr border="none">
-<td width="50%" align="left">
+<td width="40%" align="left">
   
 - 🌱 I’m currently learning **MERN**
 
@@ -19,8 +19,8 @@
 
 </td>
 </td>
-<td width="50%" align="center">
-    <p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/KavishkaJaysinghe/blob/main/kavishka.gif" width = 360px hight = 330px></p>
+<td width="60%" align="center">
+    <p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/KavishkaJaysinghe/blob/main/kavishka.gif" width = 370px hight = 350px></p>
 </td>
 
 
@@ -36,7 +36,6 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
