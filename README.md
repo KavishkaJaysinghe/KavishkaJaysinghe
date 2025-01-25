@@ -21,11 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-  <img src="https://github.com/Scar1109/Scar1109/blob/main/Images/glb_preview.png" 
-       alt="3D Model" 
-       width="450" 
-       height="450">
+<p align="center" ><img  src = "gs://imageupload-a736f.appspot.com/glb/kavishka.gif" width = 100px></p>
 </a>
 </td>
 </table>
