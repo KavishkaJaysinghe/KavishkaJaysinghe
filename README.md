@@ -20,11 +20,17 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
+  <!-- Render GLB file -->
+  <model-viewer src="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/kavishka.glb"  
+                alt="3D Model" 
+                auto-rotate 
+                camera-controls 
+                style="width: 450px; height: 450px;"></model-viewer>
   
-  </td>
-</tr>
+  <!-- Include ModelViewer script -->
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+</td>
 </table>
 
 ---
