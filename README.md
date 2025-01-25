@@ -18,17 +18,17 @@
 - ⚡ Fun fact **Call me as JAYE**
 
 </td>
+</td>
 <td width="50%" align="center">
 
-  <!-- Render GLB file -->
-  <model-viewer src="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/kavishka.glb"  
-                alt="3D Model" 
-                auto-rotate 
-                camera-controls 
-                style="width: 450px; height: 450px;"></model-viewer>
-  
-  <!-- Include ModelViewer script -->
-  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<!-- Render GLB file -->
+<a href="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/kavishka.glb" target="_blank">
+  <img src="https://github.com/Scar1109/Scar1109/blob/main/Images/glb_preview.png" 
+       alt="3D Model" 
+       width="450" 
+       height="450">
+</a>
+<p>Click the image to view my 3D model!</p>
 
 </td>
 </table>
