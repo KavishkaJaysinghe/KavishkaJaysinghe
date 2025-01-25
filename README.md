@@ -20,11 +20,11 @@
 </td>
 </td>
 <td width="50%" align="center">
-
-<p align="center" ><img src="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/kavishka.gif" width="100px">
- width = 100px></p>
-</a>
+  <p align="center">
+    <img src="https://storage.googleapis.com/imageupload-a736f.appspot.com/glb/kavishka.gif" width="100px">
+  </p>
 </td>
+
 </table>
 
 ---
