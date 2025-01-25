@@ -20,7 +20,7 @@
 </td>
 </td>
 <td width="50%" align="center">
-    <p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/KavishkaJaysinghe/blob/main/kavishka.gif" width = 100px></p>
+    <p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/KavishkaJaysinghe/blob/main/kavishka.gif" width = 320px hight = 310px></p>
 </td>
 
 
