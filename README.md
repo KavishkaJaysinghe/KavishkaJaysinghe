@@ -106,8 +106,8 @@ Currently open to opportunities in **software, automation, and AI/ML engineering
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-kavishkajayasinghe.vercel.app/api?username=KavishkaJaysinghe&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide=stars,issues&cache_seconds=1800" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats-kavishkajayasinghe.vercel.app/api/top-langs/?username=KavishkaJaysinghe&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8&cache_seconds=1800" alt="Most used languages" />
+<img height="150" src="https://github-readme-stats-kavishkajayasinghe.vercel.app/api?username=KavishkaJaysinghe&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide=stars,issues&hide_rank=true&cache_seconds=1800" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats-kavishkajayasinghe.vercel.app/api/top-langs/?username=KavishkaJaysinghe&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&size_weight=0.5&count_weight=0.5&hide=html,css,dockerfile&langs_count=6&cache_seconds=1800" alt="Most used languages" />
 
 </div>
 
